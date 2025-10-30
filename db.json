@@ -1,0 +1,914 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Puma",
+      "descreption": "Trendy Puma sneakers built for comfort and daily wear with sporty style.",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVucyUyMHNob2V8ZW58MHx8MHx8fDA%3D",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "2999",
+      "status": "active",
+      "description": "Trendy Puma sneakers built for comfort and daily wear with sporty style."
+    },
+    {
+      "id": "2",
+      "name": "Adidas",
+      "descreption": "Classic Adidas sneakers with durable sole and premium sporty design.",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/shoe/q/s/n/-original-imah25hq9y8t3ukf.jpeg?q=90&crop=false",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1999",
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "name": "Nike Pegasus",
+      "descreption": "Nike Pegasus premium running shoes designed for speed and long runs.",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6deeaf52-3288-43b2-a125-fdc1800ee2ee/NIKE+PEGASUS+PREMIUM.png",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "name": "Nike Custom",
+      "descreption": "Stylish custom Nike sneakers with modern aesthetic and street fashion vibe.",
+      "image": "https://customcentral.com.au/wp-content/uploads/2023/01/il_794xN.4122654905_7yuv.webp",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "name": "Walkaroo",
+      "descreption": "Lightweight Walkaroo casual sneakers for women, built for daily comfort.",
+      "image": "https://www.walkaroo.in/cdn/shop/files/01_6b55e841-e8d1-4d5e-97a8-e41a63a5137c.jpg?v=1753517439",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "6",
+      "name": "RedTape Mesh",
+      "descreption": "RedTape breathable mesh walking shoes, soft cushioning for all-day wear.",
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/30867871/2024/10/4/29247e4a-911e-4aa0-a54b-e964dd597ad01728049534112-Red-Tape-Women-Mesh-Walking-Non-Marking-Shoes-48917280495337-1.jpg",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "7",
+      "name": "RedTape Classic",
+      "descreption": "Stylish RedTape sneakers with timeless design and durable outsole.",
+      "image": "https://redtape.com/cdn/shop/files/RLL0186_1_1324e335-513d-4206-8e5b-afcfa232da72.jpg?v=1754286442",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "8",
+      "name": "Roadster Women Sneakers",
+      "descreption": "Chunky pink Roadster sneakers for women with bold streetwear vibes.",
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/26146436/2023/12/26/fb173bd0-ca6d-46d3-96f0-b88a5ea440d01703566869130-The-Roadster-Lifestyle-Co-Women-Pink-Textured-Chunky-Sneaker-1.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "2999",
+      "status": "active"
+    },
+    {
+      "id": "9",
+      "name": "Nike Jordan",
+      "descreption": "Iconic Nike Air Jordan 1 Low sneakers with premium finish and legendary style.",
+      "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/91aefeeb-0efb-4387-b516-5fc4d9ed5709/WMNS+AIR+JORDAN+1+LOW.png",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1999",
+      "status": "active"
+    },
+    {
+      "id": "10",
+      "name": "RedTape Premium",
+      "descreption": "Elegant RedTape lifestyle sneakers built with comfort and style in mind.",
+      "image": "https://redtape.com/cdn/shop/files/RLL0325_1..jpg?v=1754286369&width=533",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "11",
+      "name": "Roadster",
+      "descreption": "Trendy women’s white-pink sneakers built for casual wear and light running.",
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/23808106/2023/6/29/06454728-5bb0-4313-bc27-97d80b88156c1688038916178RoadsterLatestWomenCasualRunningWalkingSneakers-White-Pink1.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "12",
+      "name": "ABROS Men Arizona",
+      "descreption": "Lightweight men’s sports shoes with breathable mesh and modern mint-white look.",
+      "image": "https://abrosshoes.com/cdn/shop/files/WhiteMintArizona_0000_000A8391.jpg?v=1737962886&width=2048",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "13",
+      "name": "RedTape",
+      "descreption": "Premium casual sneakers from RedTape designed for comfort and everyday wear.",
+      "image": "https://redtape.com/cdn/shop/files/RTE5581_1.jpg?v=1754286474",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "14",
+      "name": "Louis Stitch",
+      "descreption": "Classy leather loafers for men – perfect blend of formal elegance and style.",
+      "image": "https://m.media-amazon.com/images/I/71gPkapYXIL._UY1000_.jpg",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "15",
+      "name": "Hitz Men",
+      "descreption": "Durable and stylish formal shoes for men with a premium black finish.",
+      "image": "https://hitz.co.in/cdn/shop/files/838-BLACK_9f4bd335-ad80-4471-a541-3fd1548d4153.jpg?v=1754127325",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "16",
+      "name": "RedType",
+      "descreption": "Comfortable casual sneakers with a modern sporty vibe for daily wear.",
+      "image": "https://redtape.com/cdn/shop/files/RSL0201_1..jpg?v=1754285311",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "17",
+      "name": "RedType",
+      "descreption": "Lightweight running shoes designed for breathability and long-lasting comfort.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNNr3VoljWGZ_SCOklt8aSFgU-Y7zMDwuCg&s",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "18",
+      "name": "HotSpot",
+      "descreption": "Trendy grey sports shoes built for casual outings and light workouts.",
+      "image": "https://g.sdlcdn.com/imgs/k/2/z/hotstyle-Gray-Men-s-Sports-SDL249055723-1-2f2c4.jpg?trim=10&w=850&h=995&sharp=7",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "19",
+      "name": "RedType",
+      "descreption": "Sturdy outdoor shoes with extra grip and a rugged design for rough use.",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2022/2/JZ/BA/HT/73718625/prod-20220218-1733503797211428657373137-jpg-500x500.jpg",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "20",
+      "name": "Asian",
+      "descreption": "Stylish women’s grey-pink sneakers perfect for walking, running, and casual wear.",
+      "image": "https://rukminim2.flixcart.com/image/704/1056/xif0q/shoe/z/b/9/6-cute-n-39-asian-grey-pink-original-imah3pt5uq25sm62.jpeg?q=90&crop=false",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "21",
+      "name": "RedType",
+      "descreption": "Women’s casual sneakers with a sleek design, perfect for everyday wear.",
+      "image": "https://redtape.com/cdn/shop/files/RLO1653_1.jpg?v=1754304071",
+      "category": "women",
+      "old_price": 999,
+      "new_price": 1599,
+      "status": "active"
+    },
+    {
+      "id": "22",
+      "name": "RedType",
+      "descreption": "Men’s durable sneakers with a sporty build for running and casual outings.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdRph9a1hHGxaEpFuAqwB6oyrhoSUt7bb6ig&s",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "23",
+      "name": "RedType",
+      "descreption": "Stylish men’s sports shoes offering comfort and a trendy athletic vibe.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFZaf3iQFq2mVud0oq-bSpH3iWK6LQRSK3Q&s",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "24",
+      "name": "RedType",
+      "descreption": "Chic women’s sneakers designed for comfort and an everyday stylish look.",
+      "image": "https://img.tatacliq.com/images/i15//437Wx649H/MP000000019802181_437Wx649H_202311291842052.jpeg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "25",
+      "name": "Puma",
+      "descreption": "Bold and trendy Puma RS-X sneakers with a chunky sole for street-style vibes.",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/24099162/2023/9/6/8c476ef9-87b4-4331-9050-0caafd9286f01693998176748-RS-X-Geek-Unisex-Sneakers-2801693998176484-1.jpg",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "26",
+      "name": "U.S. Polo Assasian",
+      "descreption": "Elegant women’s sneakers from U.S. Polo with a modern and sporty design.",
+      "image": "https://uspoloassn.in/cdn/shop/files/1_04fb8cb9-3bd4-449a-b667-6caee17c39e9.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "27",
+      "name": "New Balance",
+      "descreption": "Iconic New Balance 720 sneakers for women – lightweight, retro, and stylish.",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/29542104/2024/8/26/9abbe33c-e051-4cca-adb0-6b1c27c3214a1724655288433-New-Balance-720-Casual-Shoes-7751724655288140-1.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1999",
+      "status": "active"
+    },
+    {
+      "id": "28",
+      "name": "Flyknit Sneakers",
+      "descreption": "Trendy women’s flyknit sneakers with lightweight build and breathable comfort.",
+      "image": "https://image.made-in-china.com/202f0j00OTUYfsbSHBzk/Injection-New-Branded-Shoes-Women-Ins-Flyknit-Fashion-Casual-Sneakers.webp",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "29",
+      "name": "RedTape",
+      "descreption": "Sporty women’s sneakers from RedTape with a green modern streetwear finish.",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20241104/f1AR/67289344f9b8ef490bfeeb2f/-473Wx593H-700700139-green-MODEL.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "30",
+      "name": "RedTape",
+      "descreption": "Comfort-driven women’s slip-on sneakers, perfect for casual everyday looks.",
+      "image": "https://rukminim2.flixcart.com/image/360/432/xif0q/shoe/a/k/j/-original-imahekybfw4taewh.jpeg?q=90&crop=false",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "31",
+      "name": "RedType",
+      "descreption": "Trendy women’s sneakers with a sporty design for casual and active wear.",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/JUNE/6/0Rcv4Vy1_6d71645ad02641c1be1a57d932a496b2.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "32",
+      "name": "RedTape",
+      "descreption": "Comfortable women’s casual sneakers with a modern lightweight build.",
+      "image": "https://redtape.com/cdn/shop/files/RLL0186_1_1324e335-513d-4206-8e5b-afcfa232da72.jpg?v=1754286442",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "33",
+      "name": "VILLA Fashion",
+      "descreption": "Elegant women’s heels with a glossy finish – perfect for parties and occasions.",
+      "image": "https://m.media-amazon.com/images/I/71nj1iJM1nL._UY1000_.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "2999",
+      "status": "active"
+    },
+    {
+      "id": "34",
+      "name": "Flynce Casual",
+      "descreption": "Chunky fashion sneakers with a bold white-black contrast for street style lovers.",
+      "image": "https://www.jiomart.com/images/product/original/rvpfi47gaf/flynce-casual-fashion-chunky-shoes-sneaker-for-women-and-girls-sneakers-shoes-for-women-and-girls-8014-white-black-uk-ind-5-euro-38-product-images-rvpfi47gaf-0-202301181356.jpg?im=Resize=(500,630)",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1999",
+      "status": "active"
+    },
+    {
+      "id": "35",
+      "name": "Fashion",
+      "descreption": "Trendy casual sneakers for women, designed with a stylish and comfy build.",
+      "image": "https://img.joomcdn.net/3bb4eedcbcf003bc34cf1178022103c4d1d43dc2_original.jpeg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "36",
+      "name": "RedTape",
+      "descreption": "Women’s sneakers with cushioned sole and a modern design for daily comfort.",
+      "image": "https://shopify-app-group-product.s3.amazonaws.com/1716882100193-8.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "37",
+      "name": "ABROS Men Arizona",
+      "descreption": "Sporty men’s shoes with breathable mesh, ideal for running and casual style.",
+      "image": "https://abrosshoes.com/cdn/shop/files/WhiteMintArizona_0000_000A8391.jpg?v=1737962886&width=2048",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "38",
+      "name": "RedTape",
+      "descreption": "Men’s casual sneakers offering premium comfort with a modern sporty edge.",
+      "image": "https://redtape.com/cdn/shop/files/RTE5581_1.jpg?v=1754286474",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "39",
+      "name": "Louis Stitch",
+      "descreption": "Classy formal leather shoes for men – sleek, durable, and premium in style.",
+      "image": "https://m.media-amazon.com/images/I/71gPkapYXIL._UY1000_.jpg",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "40",
+      "name": "Hitz Men",
+      "descreption": "Premium black formal shoes for men, designed with elegance and durability.",
+      "image": "https://hitz.co.in/cdn/shop/files/838-BLACK_9f4bd335-ad80-4471-a541-3fd1548d4153.jpg?v=1754127325",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "41",
+      "name": "RedTape Sneakers",
+      "descreption": "Stylish RedTape men's lace-up sneakers with cushioned comfort and durable sole.",
+      "image": "https://redtape.com/cdn/shop/files/RSL0201_1..jpg?v=1754285311",
+      "category": "mens",
+      "old_price": 2599,
+      "new_price": "1799",
+      "status": "active"
+    },
+    {
+      "id": "42",
+      "name": "RedTape Casual Shoes",
+      "descreption": "Trendy RedTape casual shoes for men, perfect for daily wear with breathable design.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNNr3VoljWGZ_SCOklt8aSFgU-Y7zMDwuCg&s",
+      "category": "mens",
+      "old_price": 2399,
+      "new_price": "1699",
+      "status": "active"
+    },
+    {
+      "id": "43",
+      "name": "Hotstyle Sports Shoes",
+      "descreption": "Hotstyle men's grey sports running shoes with anti-slip grip and flexible outsole.",
+      "image": "https://g.sdlcdn.com/imgs/k/2/z/hotstyle-Gray-Men-s-Sports-SDL249055723-1-2f2c4.jpg?trim=10&w=850&h=995&sharp=7",
+      "category": "mens",
+      "old_price": 1999,
+      "new_price": "1399",
+      "status": "active"
+    },
+    {
+      "id": "44",
+      "name": "Generic Sports Shoes",
+      "descreption": "Lightweight breathable sports shoes designed for running and workouts.",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2022/2/JZ/BA/HT/73718625/prod-20220218-1733503797211428657373137-jpg-500x500.jpg",
+      "category": "mens",
+      "old_price": 1599,
+      "new_price": "1099",
+      "status": "active"
+    },
+    {
+      "id": "45",
+      "name": "Asian Sneakers",
+      "descreption": "Asian grey-pink lace-up sneakers for men with stylish look and everyday comfort.",
+      "image": "https://rukminim2.flixcart.com/image/704/1056/xif0q/shoe/z/b/9/6-cute-n-39-asian-grey-pink-original-imah3pt5uq25sm62.jpeg?q=90&crop=false",
+      "category": "mens",
+      "old_price": 1999,
+      "new_price": "1299",
+      "status": "active"
+    },
+    {
+      "id": "46",
+      "name": "RedTape Sneakers",
+      "descreption": "Premium RedTape lace-up sneakers for men with cushioned midsole for comfort.",
+      "image": "https://redtape.com/cdn/shop/files/RLO1653_1.jpg?v=1754304071",
+      "category": "mens",
+      "old_price": 2699,
+      "new_price": "1899",
+      "status": "active"
+    },
+    {
+      "id": "47",
+      "name": "RedTape Loafers",
+      "descreption": "Classic RedTape men's loafers with a modern twist for casual and semi-formal looks.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdRph9a1hHGxaEpFuAqwB6oyrhoSUt7bb6ig&s",
+      "category": "mens",
+      "old_price": 2299,
+      "new_price": "1599",
+      "status": "active"
+    },
+    {
+      "id": "48",
+      "name": "RedTape Sports Shoes",
+      "descreption": "RedTape men's performance running shoes with lightweight mesh upper and EVA sole.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFZaf3iQFq2mVud0oq-bSpH3iWK6LQRSK3Q&s",
+      "category": "mens",
+      "old_price": 2499,
+      "new_price": "1799",
+      "status": "active"
+    },
+    {
+      "id": "49",
+      "name": "RedTape Sneakers",
+      "descreption": "Trendy RedTape men's sneakers with bold design and extra cushioning for all-day wear.",
+      "image": "https://img.tatacliq.com/images/i15//437Wx649H/MP000000019802181_437Wx649H_202311291842052.jpeg",
+      "category": "mens",
+      "old_price": 1999,
+      "new_price": "1399",
+      "status": "active"
+    },
+    {
+      "id": "50",
+      "name": "Puma RS-X Geek Sneakers",
+      "descreption": "Unisex Puma RS-X Geek sneakers with futuristic design and chunky sole.",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/24099162/2023/9/6/8c476ef9-87b4-4331-9050-0caafd9286f01693998176748-RS-X-Geek-Unisex-Sneakers-2801693998176484-1.jpg",
+      "category": "mens",
+      "old_price": 5999,
+      "new_price": "4299",
+      "status": "active"
+    },
+    {
+      "id": "1756655365095",
+      "name": "Nike Basketball Running ",
+      "category": "women",
+      "old_price": "4999",
+      "new_price": "3999",
+      "status": "active",
+      "image": "https://image.made-in-china.com/2f0j00nDQcHaYIuqur/Nike-Shoes-Branded-Men-Women-Sneakers-Air-Sport-Basketball-Running-Nike-Factory-in-China-Zapato-De-Marca-2024-New-Style-Nike-Sb-Dunk-Low.jpg",
+      "descreption": "Nike Shoes Branded Men Women Sneakers Air Sport Basketball Running Nike Factory in China Zapato De Marca 2024 New Style Nike Sb Dunk Low",
+      "description": "Nike Shoes Branded Men Women Sneakers Air Sport Basketball Running Nike Factory in China Zapato De Marca 2024 New Style Nike Sb Dunk Low"
+    },
+    {
+      "id": "1756716701098",
+      "name": "Nike Air Force",
+      "category": "men",
+      "old_price": "5999",
+      "new_price": "4999",
+      "status": "active",
+      "image": "https://knickgasm.com/cdn/shop/files/Nike-Air-Force-1-x-Astro-Drip-Knickgasm-2129.jpg?v=1751278385",
+      "descreption": "Introducing our unique and eye-catching Custom Hand Painted Nike Air Force 1 x Astro Drip Sneakers! These sneakers are the perfect blend of style, art, and personalisation, making them a must-have for any sneaker-head or fashion enthusiast.",
+      "description": "Introducing our unique and eye-catching Custom Hand Painted Nike Air Force 1 x Astro Drip Sneakers! These sneakers are the perfect blend of style, art, and personalisation, making them a must-have for any sneaker-head or fashion enthusiast."
+    },
+    {
+      "id": "1756724924100",
+      "name": "",
+      "category": "",
+      "old_price": "",
+      "new_price": "",
+      "status": "active",
+      "image": "",
+      "descreption": ""
+    },
+    {
+      "id": "1756724932733",
+      "name": "",
+      "category": "",
+      "old_price": "",
+      "new_price": "",
+      "status": "active",
+      "image": "",
+      "descreption": ""
+    },
+    {
+      "id": "1757481133656",
+      "name": "",
+      "category": "",
+      "old_price": "",
+      "new_price": "",
+      "status": "active",
+      "image": "",
+      "descreption": ""
+    }
+  ],
+  "users": [
+    {
+      "fullname": "hashim",
+      "email": "hashihashim47@gmail.com",
+      "password": "hashim12",
+      "repassword": "hashim12",
+      "id": "05b2",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "dfc7",
+      "fullname": "  ",
+      "email": "1@gmail.com",
+      "phone": "1234567899",
+      "password": "aby123",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "e4e5",
+      "fullname": "test",
+      "email": "h@gmail.com",
+      "phone": "3929393984",
+      "password": "1",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "c159",
+      "fullname": "mujeeb",
+      "email": "mujeebmuji816@gmail.com",
+      "phone": "9605816324",
+      "password": "qwerty@1122",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "7fb8",
+      "fullname": "test",
+      "email": "test@gmail.com",
+      "phone": "1234567890",
+      "password": "123456",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "ba9a",
+      "fullname": "shahid",
+      "email": "shahid@hi.com",
+      "phone": "9526687231",
+      "password": "123456",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "d87c",
+      "fullname": "hashim",
+      "email": "has@gmail.com",
+      "phone": "7356388768",
+      "password": "123456",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "d866c",
+      "fullname": "jishnu",
+      "email": "jishnu@gmail.com",
+      "phone": "7356388768",
+      "password": "123456",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "c6ab",
+      "fullname": "aswin",
+      "email": "aswin@123",
+      "phone": "7594881205",
+      "password": "12345678",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    },
+    {
+      "id": "5ade",
+      "fullname": "hashim",
+      "email": "hashim47@gmail.com",
+      "phone": "7356388768",
+      "password": "hashim12",
+      "status": "active",
+      "deleted": false,
+      "role": "user"
+    }
+  ],
+  "admin": [
+    {
+      "id": "2a21",
+      "fullname": "hashim",
+      "email": "admin@gmail.com",
+      "phone": "9999288882",
+      "password": "123456",
+      "role": "admin"
+    }
+  ],
+  "orders": [
+    {
+      "id": "b722",
+      "name": "aswin",
+      "email": "we",
+      "address": "efr",
+      "city": "efr",
+      "state": "erf",
+      "postal": "efr",
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "efr"
+      },
+      "cartItems": [
+        {
+          "id": "10",
+          "name": "RedTape Premium",
+          "descreption": "Elegant RedTape lifestyle sneakers built with comfort and style in mind.",
+          "image": "https://redtape.com/cdn/shop/files/RLL0325_1..jpg?v=1754286369&width=533",
+          "category": "mens",
+          "old_price": 999,
+          "new_price": "1599",
+          "status": "active",
+          "quantity": 1,
+          "userId": "d866c"
+        }
+      ],
+      "total": 1751.92,
+      "date": "2025-07-02T09:08:41.559Z",
+      "Status": "Processing",
+      "userId": "d866c"
+    },
+    {
+      "id": "bc72",
+      "name": "hashim",
+      "email": "w",
+      "address": "wd",
+      "city": "wd",
+      "state": "wd",
+      "postal": "dw",
+      "paymentMethod": "card",
+      "paymentDetails": {
+        "cardNumber": "wd"
+      },
+      "cartItems": [
+        {
+          "id": "2",
+          "name": "Adidas",
+          "descreption": "Classic Adidas sneakers with durable sole and premium sporty design.",
+          "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/shoe/q/s/n/-original-imah25hq9y8t3ukf.jpeg?q=90&crop=false",
+          "category": "mens",
+          "old_price": 999,
+          "new_price": "1999",
+          "status": "active",
+          "quantity": 1,
+          "userId": "e4e5"
+        }
+      ],
+      "total": 2183.92,
+      "date": "2025-08-02T09:17:45.363Z",
+      "Status": "Delivered",
+      "userId": "e4e5"
+    },
+    {
+      "id": "44c7",
+      "name": "qw",
+      "email": "qw",
+      "address": "qw",
+      "city": "qw",
+      "state": "qw",
+      "postal": "qw",
+      "paymentMethod": "card",
+      "paymentDetails": {
+        "cardNumber": "qwq"
+      },
+      "cartItems": [
+        {
+          "id": "2",
+          "name": "Adidas",
+          "descreption": "Classic Adidas sneakers with durable sole and premium sporty design.",
+          "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/shoe/q/s/n/-original-imah25hq9y8t3ukf.jpeg?q=90&crop=false",
+          "category": "mens",
+          "old_price": 999,
+          "new_price": "1999",
+          "status": "active",
+          "quantity": 1,
+          "userId": "e4e5"
+        }
+      ],
+      "total": 2183.92,
+      "date": "2025-09-02T10:18:35.645Z",
+      "Status": "Pending",
+      "userId": "e4e5"
+    },
+    {
+      "id": "ab6d",
+      "name": "wqdas",
+      "email": "qwads",
+      "address": "wdq",
+      "city": "qw",
+      "state": "qdw",
+      "postal": "qwd",
+      "paymentMethod": "card",
+      "paymentDetails": {
+        "cardNumber": "qdwax"
+      },
+      "cartItems": [
+        {
+          "id": "2",
+          "name": "Adidas",
+          "descreption": "Classic Adidas sneakers with durable sole and premium sporty design.",
+          "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/shoe/q/s/n/-original-imah25hq9y8t3ukf.jpeg?q=90&crop=false",
+          "category": "mens",
+          "old_price": 999,
+          "new_price": "1999",
+          "status": "active",
+          "productId": "2",
+          "quantity": 1,
+          "userId": "e4e5"
+        }
+      ],
+      "total": 2183.92,
+      "date": "2025-09-08T05:03:02.802Z",
+      "Status": "Processing",
+      "userId": "e4e5"
+    },
+    {
+      "id": "f6f1",
+      "name": "qaq",
+      "email": "qwwas",
+      "address": "sqa",
+      "city": "q",
+      "state": "s",
+      "postal": "q",
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": ""
+      },
+      "cartItems": [
+        {
+          "id": "2",
+          "name": "Adidas",
+          "descreption": "Classic Adidas sneakers with durable sole and premium sporty design.",
+          "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/shoe/q/s/n/-original-imah25hq9y8t3ukf.jpeg?q=90&crop=false",
+          "category": "mens",
+          "old_price": 999,
+          "new_price": "1999",
+          "status": "active",
+          "productId": "2",
+          "quantity": 1,
+          "userId": "2a21"
+        }
+      ],
+      "total": 2183.92,
+      "date": "2025-09-18T16:45:09.461Z",
+      "Status": "Pending",
+      "userId": "e4e5"
+    },
+    {
+      "id": "8146",
+      "name": "wqsa",
+      "email": "asz",
+      "address": "qwsaz",
+      "city": "qas",
+      "state": "qsax",
+      "postal": "saZ",
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "qwsaz"
+      },
+      "cartItems": [
+        {
+          "id": "3",
+          "name": "Nike Pegasus",
+          "descreption": "Nike Pegasus premium running shoes designed for speed and long runs.",
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6deeaf52-3288-43b2-a125-fdc1800ee2ee/NIKE+PEGASUS+PREMIUM.png",
+          "category": "mens",
+          "old_price": 999,
+          "new_price": "1599",
+          "status": "active",
+          "productId": "3",
+          "quantity": 1,
+          "userId": "7fb8"
+        }
+      ],
+      "total": 1751.92,
+      "date": "2025-10-17T15:08:22.658Z",
+      "Status": "Pending",
+      "userId": "7fb8"
+    }
+  ],
+  "cart": [
+    {
+      "id": "11",
+      "name": "Roadster",
+      "descreption": "Trendy women’s white-pink sneakers built for casual wear and light running.",
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/23808106/2023/6/29/06454728-5bb0-4313-bc27-97d80b88156c1688038916178RoadsterLatestWomenCasualRunningWalkingSneakers-White-Pink1.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active",
+      "productId": "11",
+      "quantity": 1,
+      "userId": "d866c"
+    },
+    {
+      "id": "26",
+      "name": "U.S. Polo Assasian",
+      "descreption": "Elegant women’s sneakers from U.S. Polo with a modern and sporty design.",
+      "image": "https://uspoloassn.in/cdn/shop/files/1_04fb8cb9-3bd4-449a-b667-6caee17c39e9.jpg",
+      "category": "women",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active",
+      "productId": "26",
+      "quantity": 1,
+      "userId": "2a21"
+    },
+    {
+      "id": "14",
+      "name": "Louis Stitch",
+      "descreption": "Classy leather loafers for men – perfect blend of formal elegance and style.",
+      "image": "https://m.media-amazon.com/images/I/71gPkapYXIL._UY1000_.jpg",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active",
+      "productId": "14",
+      "quantity": 1,
+      "userId": "2a21"
+    },
+    {
+      "id": "3",
+      "name": "Nike Pegasus",
+      "descreption": "Nike Pegasus premium running shoes designed for speed and long runs.",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6deeaf52-3288-43b2-a125-fdc1800ee2ee/NIKE+PEGASUS+PREMIUM.png",
+      "category": "mens",
+      "old_price": 999,
+      "new_price": "1599",
+      "status": "active",
+      "productId": "3",
+      "quantity": 1,
+      "userId": "7fb8"
+    }
+  ]
+}
